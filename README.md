@@ -1,4 +1,9 @@
-### Hi there 👋
+# Leo Bermeo :wave:
+- 📫 Reach me: 
+- [twitter.com/leobermeo](https://twitter.com/leobermeo)
+- [instagram.com/leofbermeo/](https://www.instagram.com/leofbermeo/)
+
+
 
 <!--
 **leo12534/leo12534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
