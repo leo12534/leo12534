@@ -1,21 +1,18 @@
-# Leo Bermeo :wave:
-- 📫 Reach me: 
-- [twitter.com/leobermeo](https://twitter.com/leobermeo)
-- [instagram.com/leofbermeo/](https://www.instagram.com/leofbermeo/)
+# Hi, I'm Leo 👋
 
+Web designer at Worldwide Business Research (WBR), building event and corporate sites in an in-house CMS. Based between London and NYC.
 
+**Day to day:** HTML, CSS, JavaScript and jQuery, Bootstrap 4/5, Sass, CSS custom properties, mobile-first layouts.
 
-<!--
-**leo12534/leo12534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured
+- **[wbr-eco-admin-injector](https://github.com/leo12534/wbr-eco-admin-injector)**: Chrome extension that splits a full HTML page into CMS content blocks
+- **[a-j-last-mile](https://github.com/leo12534/a-j-last-mile)**: live site for a moving company
+- **[picsum-url-builder](https://leo12534.github.io/picsum-url-builder/)**: placeholder-image URL builder
+- **[wbr-hero-svg-picker](https://leo12534.github.io/wbr-hero-svg-picker/)**: SVG section-divider picker for event heroes
 
-Here are some ideas to get you started:
+### Repo guide
+Repos are tagged by topic: [`wbr`](https://github.com/leo12534?tab=repositories&q=topic%3Awbr) work, [`personal`](https://github.com/leo12534?tab=repositories&q=topic%3Apersonal) projects, [`client`](https://github.com/leo12534?tab=repositories&q=topic%3Aclient) sites, and [`course`](https://github.com/leo12534?tab=repositories&q=topic%3Acourse) work. Older work is archived.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+New portfolio coming soon.
+
+📫 [leandrofbermeo@gmail.com](mailto:leandrofbermeo@gmail.com)
